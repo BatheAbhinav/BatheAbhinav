@@ -47,9 +47,10 @@ Backend-focused developer working with **TypeScript, Java, Python, and C++**.
 
 ---
 
-## Some Projects
+## GitHub Stats
 
-[**Hackathon Matchmaker**](https://github.com/BatheAbhinav) · [**Agentic HR Assistant**](https://github.com/BatheAbhinav) · [**voucher-manager**](https://github.com/BatheAbhinav) · [**dev-tinder**](https://github.com/BatheAbhinav)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=BatheAbhinav&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=synthwave)](https://github-stats-extended.vercel.app/api?username=BatheAbhinav&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=synthwave)
+
 
 ---
 
